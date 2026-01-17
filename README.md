@@ -62,13 +62,6 @@ Um Mini CRM moderno e responsivo desenvolvido com Vue.js 3, demonstrando boas pr
  Descrição 
 |
 |
-------------
-|
---------
-|
------------
-|
-|
 **
 Vue.js
 **
