@@ -14,15 +14,6 @@ Um Mini CRM moderno e responsivo desenvolvido com Vue.js 3, demonstrando boas pr
 </div>
 
 ---
-
-## 📸 Screenshots
-
-<div align="center">
-<img src="./screenshots/dashboard.png" alt="Dashboard" width="80%">
-</div>
-
----
-
 ## ✨ Funcionalidades
 
 ### 📊 Dashboard
@@ -103,11 +94,7 @@ Vuetify
  Tecnologia 
 |
  Descrição 
-|
-|
-------------
-|
------------
+
 |
 |
 **
